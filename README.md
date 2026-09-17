@@ -1,6 +1,20 @@
-# autoware-release-sop
-
 # Autoware Release SOP
+
+## Documentation moved
+
+As of 2026-09-17, maintained documentation lives in
+[the TensorRT Reliability Lab release-governance directory](https://github.com/77zmf/autonomous-driving-tensorrt-reliability-lab/tree/main/docs/release-governance).
+
+The consolidation retains all 8 source commits and the original MIT license.
+This repository is kept as a historical reference so existing URLs and tags
+continue to resolve. Its older pages include incomplete drafts; use the new
+location for updates and contributions. No code, issue, tag, or repository
+history has been deleted, and no runtime or vehicle release is implied.
+
+See the [import record](https://github.com/77zmf/autonomous-driving-tensorrt-reliability-lab/blob/main/docs/release-governance/PROVENANCE.md)
+and the [main project entry point](https://github.com/77zmf/autonomous-driving-tensorrt-reliability-lab/blob/main/docs/start-here.md).
+
+## Historical scope
 
 This repository documents a **practical release and version management workflow**
 for Autoware-based autonomous driving projects.
